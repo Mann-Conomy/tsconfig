@@ -1,7 +1,7 @@
 {
   "name": "@mann-conomy/tsconfig",
   "version": "1.0.0",
-  "description": "A sharable TypeScript config for the Mann-Conomy project.",
+  "description": "A sharable TypeScript config for the Mann-Conomy Project.",
   "main": "tsconfig.json",
   "files": [
     "tsconfig.json"

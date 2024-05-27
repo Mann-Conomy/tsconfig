@@ -33,7 +33,7 @@ $ yarn add --dev @mann-conomy/tsconfig
 }
 ```
 
-When targeting a [higher version of Node.js](https://nodejs.org/en/about/previous-releases), update the target option in your tsconfig with the corresponding [ECMAScript version](https://webreference.com/javascript/basics/versions/).
+When targeting a [higher version of Node.js](https://nodejs.org/en/about/previous-releases), you can override the target with the corresponding [ECMAScript version](https://webreference.com/javascript/basics/versions/).
 
 ```json
 {
