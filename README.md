@@ -2,11 +2,11 @@
 
 A sharable TypeScript config for the Mann-Conomy Project.
 
-[![npm version](https://img.shields.io/npm/v/@mann-conomy/tsconfig.svg?style=flat-square)](https://npmjs.com/package/@mann-conomy/tsconfig)
-[![npm test](https://img.shields.io/github/actions/workflow/status/SnaBe/node-@mann-conomy/tsconfig/test.yml?logo=github&branch=main&style=flat-square)](https://github.com/SnaBe/node-@mann-conomy/tsconfig/actions/workflows/test.yml)
-[![npm downloads](https://img.shields.io/npm/dm/@mann-conomy/tsconfig.svg?style=flat-square)](https://npmjs.com/package/@mann-conomy/tsconfig)
-[![node version](https://img.shields.io/node/v/@mann-conomy/tsconfig?style=flat-square)](https://nodejs.org/en/about/releases/)
-[![license](https://img.shields.io/npm/l/@mann-conomy/tsconfig.svg?style=flat-square)](https://github.com/SnaBe/node-@mann-conomy/tsconfig/blob/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/%40mann-conomy%2Ftsconfig?style=flat-square&logo=npm)](https://npmjs.com/package/@mann-conomy/tsconfig)
+[![npm downloads](https://img.shields.io/npm/d18m/%40mann-conomy%2Ftsconfig?style=flat-square&logo=npm)](https://npmjs.com/package/@mann-conomy/tsconfig)
+[![Node.js version](https://img.shields.io/node/v/%40mann-conomy%2Ftsconfig?style=flat-square&logo=nodedotjs)](https://nodejs.org/en/about/releases/)
+[![GitHub actions](https://img.shields.io/github/actions/workflow/status/Mann-Conomy/tsconfig/test.yml?branch=main&style=flat-square&logo=github&label=test)](https://github.com/Mann-Conomy/tsconfig/blob/main/.github/workflows/test.yml)
+[![GitHub license](https://img.shields.io/github/license/Mann-Conomy/tsconfig?style=flat-square&logo=github)](https://github.com/Mann-Conomy/tsconfig/blob/main/LICENSE)
 
 ## Installation
 
