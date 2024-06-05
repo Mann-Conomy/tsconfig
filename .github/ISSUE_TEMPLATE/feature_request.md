@@ -1,3 +1,10 @@
+---
+name: "Feature request"
+about: "Request a new compiler option or feature for the tsconfig"
+title: "[FEATURE] - "
+labels: ["enhancement"]
+---
+
 ## Feature description
 
 Provide a clear and concise description of the feature or improvement you are requesting.
